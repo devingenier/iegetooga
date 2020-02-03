@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oungaingoh.trolytic.com/sitemap.xml
